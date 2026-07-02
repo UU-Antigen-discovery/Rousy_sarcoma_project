@@ -1,6 +1,11 @@
 # Rousy_sarcoma_project
 Codes used for analysis, rescoring and visualization of the Rousy Sarcoma data
 
+# Order of execution
+```
+sage/fragpipe analysis --> sage/fragpipe rescoring --> binding affinity analysis --> post-processing/visualization
+```
+
 # Description of the folders:
 1) sage_analysis_codes
 ```
