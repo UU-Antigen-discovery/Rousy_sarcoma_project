@@ -22,3 +22,8 @@ The pipeline used to rescore the fragpipe-derived outputs using tims2rescore v3.
 ```
 The pipeline used to perform binding affinity analysis of each peptide using NetMHCpan 4.1
 ```
+To activate the conda environment to run tims2rescore
+```
+conda env create -f tims2rescore.yml
+conda activate tims2rescore
+```
